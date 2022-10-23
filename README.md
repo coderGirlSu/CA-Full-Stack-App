@@ -1,10 +1,10 @@
-# CA-Full-Stack-App
+# 💬Tik Talk-Full-Stack-App
 
 ## R1: Description of Website:
 
 ### Purpose
 
-The purpose of our application, TikTalk, is to allow users to communicate with one-another in a fast, efficient manner. 
+The purpose of our application, TikTalk, is to allow users to communicate with one-another in a fast, efficient manner.
 
 **Functionality/Features**
 
@@ -24,4 +24,3 @@ The TikTalk development team believes in building applications for everyone. Alt
 - ReactJS
 - Node.js
 - JSON Web Tokens (Auth)
-
