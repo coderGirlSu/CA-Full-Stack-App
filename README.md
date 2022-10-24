@@ -1,6 +1,6 @@
-# 💬Tik Talk-Full-Stack-App
+# Tik Talk 💬 Full-Stack-App
 
-## R1: Description of Website:
+## R1: Description of Website
 
 ### Purpose
 
@@ -24,3 +24,21 @@ The TikTalk development team believes in building applications for everyone. Alt
 - ReactJS
 - Node.js
 - JSON Web Tokens (Auth)
+
+---
+
+## R4: User Stories
+
+### The first version of user stories
+
+- As a user, I want to be able to register, log in and log out to the app, so that I can see and manage my own group or friends.
+
+- As a user, I want to be able to send messages and receive messages, so that I can chat with my friends.
+
+- As a user, I want to be able to create a group, so that I can chat with multiple friends at the same time.
+
+- As a user, I want to be able to delete a group, so that I can manage group and keep the chat app tidy.
+
+- As a user, I want to be able to leave a group, so that I no longer receive messages from that group.
+
+- As a user, I want to be able to view message history, so that I can find some important information without lose it.
