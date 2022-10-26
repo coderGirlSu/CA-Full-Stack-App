@@ -1,4 +1,4 @@
-# Tik Talk 💬 Full-Stack-App
+# 💬TikTalk-documentation
 
 ## R1: Description of Website
 
