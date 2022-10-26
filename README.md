@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# CA-Full-Stack-App
-
-## R1: Description of Website:
-
-### Purpose
-
-The purpose of our application, TikTalk, is to allow users to communicate with one-another in a fast, efficient manner. 
-=======
 # Tik Talk 💬 Full-Stack-App
 
 ## R1: Description of Website
@@ -14,7 +5,6 @@ The purpose of our application, TikTalk, is to allow users to communicate with o
 ### Purpose
 
 The purpose of our application, TikTalk, is to allow users to communicate with one-another in a fast, efficient manner.
->>>>>>> 0f3523f5d9d2616fd43005bcdf12cfea2d4889d2
 
 **Functionality/Features**
 
@@ -35,8 +25,6 @@ The TikTalk development team believes in building applications for everyone. Alt
 - Node.js
 - JSON Web Tokens (Auth)
 
-<<<<<<< HEAD
-=======
 ---
 
 ## R4: User Stories
@@ -54,4 +42,3 @@ The TikTalk development team believes in building applications for everyone. Alt
 - As a user, I want to be able to leave a group, so that I no longer receive messages from that group.
 
 - As a user, I want to be able to view message history, so that I can find some important information without lose it.
->>>>>>> 0f3523f5d9d2616fd43005bcdf12cfea2d4889d2
