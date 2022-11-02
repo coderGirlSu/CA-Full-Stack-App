@@ -27,6 +27,40 @@ The TikTalk development team believes in building applications for everyone. Alt
 
 ---
 
+## R2: Dataflow Diagram
+
+### Dataflow diagram
+
+![R2](docs/diagrams/Dataflow%20diagram.png)
+
+### Sequence Diagram
+
+#### Client logon
+
+![R2](docs/diagrams/client%20logon-%20sequence%20diagrams%20.png)
+
+#### Client POST message(authenticated)
+
+![R2](docs/diagrams/%20client%20create%20a%20message-%20sequence%20diagrams.png)
+
+#### Database ERD
+
+![R2](docs/diagrams/ERD.png)
+
+---
+
+## R3: Architecture Diagram
+
+### Top level architecture diagram
+
+![R3](docs/diagrams/Top%20level%20architecture%20diagram.png)
+
+### Detailed architecture diagram
+
+![R3](docs/diagrams/Detailed%20architecture%20diagram.png)
+
+---
+
 ## R4: User Stories
 
 ### The first version of user stories
