@@ -79,6 +79,8 @@ The TikTalk development team believes in building applications for everyone. Alt
 
 - As a user, I want to be able to create a group, so that I can chat with multiple friends at the same time.
 
+- As a user, I want to be able to add friends to my groups so that I can chat with multiple friends at the same time.
+
 - As a user, I want to be able to delete a group, so that I can manage group and keep the chat app tidy.
 
 - As a user, I want to be able to leave a group, so that I no longer receive messages from that group.
