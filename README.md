@@ -35,19 +35,19 @@ The TikTalk development team believes in building applications for everyone. Alt
 
 ### Sequence Diagram
 
-#### Client logon
+#### User logon
 
 ![R2](docs/diagrams/client%20logon-%20sequence%20diagrams%20.png)
 
-#### Client POST message(authenticated)
+#### User POST message(authenticated)
 
 ![R2](docs/diagrams/%20client%20create%20a%20message-%20sequence%20diagrams.png)
 
-### Getting and using an application access token
+### Getting and using JWT
 
 ![R2](docs/diagrams/getting%20and%20using%20an%20Application%20access%20token.png)
 
-### Renew user access token
+### Renew user JWT
 
 ![R2](docs/diagrams/Refresh%20Tokens.png)
 
@@ -86,3 +86,32 @@ The TikTalk development team believes in building applications for everyone. Alt
 - As a user, I want to be able to leave a group, so that I no longer receive messages from that group.
 
 - As a user, I want to be able to view message history, so that I can find some important information without lose it.
+
+---
+
+## R5: Wireframes
+
+---
+
+## R6: Screenshots of Trello board
+
+### Desktop - Login
+
+![R6](docs/wireframes/Login%20Desktop%20DARKMODE.png)
+
+### Desktop - Chat page
+
+![R6](docs/wireframes/Chat%20Desktop%20DARKMODE.png)
+
+### Mobile - Login
+
+![R6](docs/wireframes/Login%20Mobile%20DARKMODE.png)
+
+### Mobile - Chat page
+
+![R6](docs/wireframes/Chats%20Mobile%20DARKMODE.png)
+
+
+
+
+
