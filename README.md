@@ -8,10 +8,15 @@ The purpose of our application, TikTalk, is to allow users to communicate with o
 
 **Functionality/Features**
 
-- Chat history
-- User avatars
-- File/Image uploads
-- Download chat history
+- Chat History
+- User Avatars
+- File/Image Uploads
+- Download Chat History
+- User Sign In
+- Add User to Group
+- Remove User from Group
+- Create Group
+- Leave Group
 
 **Target Audience**
 
@@ -19,11 +24,10 @@ The TikTalk development team believes in building applications for everyone. Alt
 
 **Tech Stack**
 
-- MongoDB
-- ExpressJS
-- ReactJS
-- Node.js
-- JSON Web Tokens (Auth)
+- React on Netlify
+- Express and Node on AWS
+- Authentication on Firebase
+- MongoDB on Atlas
 
 ---
 
@@ -146,3 +150,98 @@ The database is hosted in MongoDB's Atlas. It consists of a DB cluster containin
 - As a user, I want to be able to leave a group, so that I no longer receive messages from that group.
 
 - As a user, I want to be able to view message history, so that I can find some important information without lose it.
+
+---
+
+## Wireframes
+
+This chat application will feature light and dark mode. The dark mode is a halloween-based theme, and the light mode is a combination of light colours.
+
+### Sign Up Page Mobile (Dark Mode)
+
+![R5](./docs/wireframes/Sign%20Up%20Mobile%20DARKMODE%20copy.png)
+
+### Sign Up Page Mobile (Light Mode)
+
+![R5](./docs/wireframes/Sign%20Up%20Mobile%20LIGHTMODE.png)
+
+### Log In Page Mobile (Dark Mode)
+
+![R5](./docs/wireframes/Login%20Mobile%20DARKMODE.png)
+
+### Log In Page Mobile (Light Mode)
+
+![R5](./docs/wireframes/Login%20Mobile%20LIGHTMODE.png)
+
+### Chats Page Mobile (Dark Mode)
+
+![R5](./docs/wireframes/Chats%20Mobile%20DARKMODE.png)
+
+### Chats Page Mobile (Light Mode)
+
+![R5](./docs/wireframes/Chats%20Mobile%20LIGHTMODE.png)
+
+### Show Chat Page Mobile (Dark Mode)
+
+![R5](./docs/wireframes/Show%20Chat%20Mobile%20DARKMODE%20copy.png)
+
+### Show Chat Page Mobile (Light Mode)
+
+![R5](./docs/wireframes/Show%20Chat%20Mobile%20LIGHTMODE.png)
+
+### Sign Up Page Tablet (Dark Mode)
+
+![R5](./docs/wireframes/Sign%20Up%20Tablet%20DARKMODE%20copy.png)
+
+### Sign Up Page Tablet (Light Mode)
+
+![R5](./docs/wireframes/Sign%20Up%20Tablet%20LIGHTMODE.png)
+
+### Log In Page Tablet (Dark Mode)
+
+![R5](./docs/wireframes/Login%20Tablet%20DARKMODE.png)
+
+### Log In Page Tablet (Light Mode)
+
+![R5](./docs/wireframes/Login%20Tablet%20LIGHTMODE.png)
+
+### Chats Page Tablet (Dark Mode)
+
+![R5](./docs/wireframes/Chats%20Tablet%20DARKMODE.png)
+
+### Chats Page Tablet (Light Mode)
+
+![R5](./docs/wireframes/Chats%20Tablet%20LIGHTMODE.png)
+
+### Show Chat Page Tablet (Dark Mode)
+
+![R5](./docs/wireframes/Show%20Chat%20Tablet%20DARKMODE.png)
+
+### Show Chat Page Tablet (Light Mode)
+
+![R5](./docs/wireframes/Show%20Chat%20Tablet%20LIGHTMODE.png)
+
+### Sign Up Page Desktop (Dark Mode)
+
+![R5](./docs/wireframes/Sign%20Up%20Desktop%20DARKMODE%20copy.png)
+
+### Sign Up Page Desktop (Light Mode)
+
+![R5](./docs/wireframes/Sign%20Up%20Desktop%20LIGHTMODE.png)
+
+### Log In Page Desktop (Dark Mode)
+
+![R5](./docs/wireframes/Login%20Desktop%20DARKMODE.png)
+
+### Log In Page Desktop (Light Mode)
+
+![R5](./docs/wireframes/Login%20Desktop%20LIGHTMODE.png)
+
+### Chat Page Desktop (Dark Mode)
+
+![R5](./docs/wireframes/Chat%20Desktop%20DARKMODE.png)
+
+### Chat Page Desktop (Light Mode)
+
+![R5](./docs/wireframes/Chat%20Desktop%20LIGHTMODE.png)
+
