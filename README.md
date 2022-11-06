@@ -17,6 +17,7 @@ The purpose of our application, TikTalk, is to allow users to communicate with o
 - Remove User from Group
 - Create Group
 - Leave Group
+- Play a sound effect when receiving new messages
 
 **Target Audience**
 
