@@ -1,4 +1,4 @@
-# 💬 TikTalk-documentation
+# 💬 TikTalk-documentation 🎃
 
 ## R1: Description of Website
 
@@ -177,49 +177,94 @@ The database is hosted in MongoDB's Atlas. It consists of a DB cluster containin
 
 ---
 
-## Wireframes
+## R5: Wireframes
 
-This chat application will feature light and dark mode. The dark mode is a halloween-based theme, and the light mode is a combination of light colours.
+This chat application will feature light and dark mode. The dark mode is a halloween-based theme, and the light mode is a combination of light colours. The application will originally be loaded in the dark mode format for spooky halloween goodness 🎃.
+
 
 ### Sign Up, Login, Chats, and Show Chat Mobile (Dark Mode)
+
+- On the **Sign Up** page, users will create an account with a username, email and encrypted password. They can upload an avatar as well. At the bottom, they have the option to sign in if they already have an account.
+
+- The **Login** page is similar, but users will only need to enter their username and password in order to log in.
+
+- Once the user is signed up or logged in, they'll be taken to their **Chats (Show Chat)** page. This will show all their individual and group chats. This is exclusively for the *mobile* and *tablet* views of the application. The *desktop* version will have Chats in a Sidebar, as will be seen below.
+
+- From there the user will be able to click through to the **Chat** page, which will show an individual chat or group chat.
+
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
 
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20DARKMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Mobile (Light Mode)
 
+- All of the functionality is the same on the *mobile* view. Users will log in or sign up, then progress to their Chats and Group Chats page, then to the individual chats page. The only difference is the light mode colour scheme.
+
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
+
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20LIGHTMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Tablet (Dark Mode)
+
+- The pages in *tablet* view are very similar to the *mobile* pages in terms of their layouts. As is fitting for tablets, the pages have slightly more space. The users log in or sign up, then progress to their Chats page to show individual/group chats, then progress on to those chats to interact.
+
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
 
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20DARKMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Tablet (Light Mode)
 
+- Light mode for tablet view is the same as dark mode view, except the colour scheme has changed.
+
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
+
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20LIGHTMODE.png)
 
 ### Sign Up Page Desktop (Dark Mode)
+
+- The **Sign Up** page on *desktop* is very similar to the *mobile* and *tablet* views, just with more space. This is the darkmode theme.
+
+- Users can toggle light/dark mode from the bottom of the page.
 
 ![R5](./docs/wireframes/Sign%20Up%20Desktop%20DARKMODE%20copy.png)
 
 ### Sign Up Page Desktop (Light Mode)
 
+- The **Sign Up** page in light mode has all the same features as darkmode in *desktop*, *mobile* and *tablet* views, just a different colour scheme.
+
+- Users can toggle light/dark mode from the bottom of the page.
+
 ![R5](./docs/wireframes/Sign%20Up%20Desktop%20LIGHTMODE.png)
 
 ### Log In Page Desktop (Dark Mode)
+
+- **Log In** on *desktop* is the same as *mobile* and *tablet* views, just with more space. This is darkmode.
+
+- Users can toggle light/dark mode from the bottom of the page.
 
 ![R5](./docs/wireframes/Login%20Desktop%20DARKMODE.png)
 
 ### Log In Page Desktop (Light Mode)
 
+- And lightmode:
+
 ![R5](./docs/wireframes/Login%20Desktop%20LIGHTMODE.png)
 
 ### Chat Page Desktop (Dark Mode)
+
+- The *desktop* variety of the application will have a cruicial difference to the *mobile* and *tablet* views. Because it has the most space, it will **not** have an individual **Chats** page. Because it has the most space, it will have the **Chats** page embedded as a sidebar on the **Chat** page. Here is darkmode.
+
+- Users can toggle light/dark mode from the top right corner of the page.
 
 ![R5](./docs/wireframes/Chat%20Desktop%20DARKMODE.png)
 
 ### Chat Page Desktop (Light Mode)
 
+- And lightmode:
+
 ![R5](./docs/wireframes/Chat%20Desktop%20LIGHTMODE.png)
+
+---
 
 ## R6: Trello Screenshots
 
