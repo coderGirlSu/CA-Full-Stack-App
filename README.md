@@ -192,11 +192,15 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 - From there the user will be able to click through to the **Chat** page, which will show an individual chat or group chat.
 
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
+
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20DARKMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Mobile (Light Mode)
 
-- All of the functionality is the same on the *mobile* view. Users will log in or sign up, then progress to their Chats and Group Chats page, then to the individual chats page. The only difference is the light mode colour scheme:
+- All of the functionality is the same on the *mobile* view. Users will log in or sign up, then progress to their Chats and Group Chats page, then to the individual chats page. The only difference is the light mode colour scheme.
+
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
 
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20LIGHTMODE.png)
 
@@ -204,29 +208,39 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 - The pages in *tablet* view are very similar to the *mobile* pages in terms of their layouts. As is fitting for tablets, the pages have slightly more space. The users log in or sign up, then progress to their Chats page to show individual/group chats, then progress on to those chats to interact.
 
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
+
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20DARKMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Tablet (Light Mode)
 
-- Light mode for tablet view is the same as dark mode view, except the colour scheme has changed:
+- Light mode for tablet view is the same as dark mode view, except the colour scheme has changed.
+
+- Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
 
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20LIGHTMODE.png)
 
 ### Sign Up Page Desktop (Dark Mode)
 
-- The **Sign Up** page on *desktop* is very similar to the *mobile* and *tablet* views, just with more space. This is the darkmode theme:
+- The **Sign Up** page on *desktop* is very similar to the *mobile* and *tablet* views, just with more space. This is the darkmode theme.
+
+- Users can toggle light/dark mode from the bottom of the page.
 
 ![R5](./docs/wireframes/Sign%20Up%20Desktop%20DARKMODE%20copy.png)
 
 ### Sign Up Page Desktop (Light Mode)
 
-- The **Sign Up** page in light mode has all the same features as darkmode in *desktop*, *mobile* and *tablet* views, just a different colour scheme:
+- The **Sign Up** page in light mode has all the same features as darkmode in *desktop*, *mobile* and *tablet* views, just a different colour scheme.
+
+- Users can toggle light/dark mode from the bottom of the page.
 
 ![R5](./docs/wireframes/Sign%20Up%20Desktop%20LIGHTMODE.png)
 
 ### Log In Page Desktop (Dark Mode)
 
-- **Log In** on *desktop* is the same as *mobile* and *tablet* views, just with more space. This is darkmode:
+- **Log In** on *desktop* is the same as *mobile* and *tablet* views, just with more space. This is darkmode.
+
+- Users can toggle light/dark mode from the bottom of the page.
 
 ![R5](./docs/wireframes/Login%20Desktop%20DARKMODE.png)
 
@@ -238,7 +252,9 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 ### Chat Page Desktop (Dark Mode)
 
-- The *desktop* variety of the application will have a cruicial difference to the *mobile* and *tablet* views. Because it has the most space, it will **not** have an individual **Chats** page. Because it has the most space, it will have the **Chats** page embedded as a sidebar on the **Chat** page. Here is darkmode:
+- The *desktop* variety of the application will have a cruicial difference to the *mobile* and *tablet* views. Because it has the most space, it will **not** have an individual **Chats** page. Because it has the most space, it will have the **Chats** page embedded as a sidebar on the **Chat** page. Here is darkmode.
+
+- Users can toggle light/dark mode from the top right corner of the page.
 
 ![R5](./docs/wireframes/Chat%20Desktop%20DARKMODE.png)
 
@@ -252,10 +268,82 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 ## R6: Trello Screenshots
 
-This is a link to our trello workspace: 
+This is a link to our trello workspace:
 
 https://trello.com/b/rhCwvSGR/tiktalk 
 
 And a link to all trello screenshots. All are labelled with dates and descriptions.
 
 [Trello](./docs/trello-screenshots/)
+
+### Added some back-end and front-end cards 26:10:22
+
+![R6](./docs/trello-screenshots/added%20back-end%20and%20front-end%20cards%2026%3A10%3A22.png)
+
+### Added difficulty level and task numbers 21:10:22
+
+![R6](./docs/trello-screenshots/added%20difficulty%20level%20and%20task%20numbers%2021%3A10%3A22.png)
+
+### Added git workflow check list 12:12:23
+
+![R6](./docs/trello-screenshots/Added%20git%20workflow%20check%20list%2012%3A12%3A23.png)
+
+### Added front-end components in trello 26:10:22
+
+![R6](./docs/trello-screenshots/added%20front-end%20components%20in%20trello%2026%3A10%3A22.png)
+
+### Added more feature ideas and moved criteria to check column 21:10:22
+
+![R6](./docs/trello-screenshots/added%20more%20feature%20ideas%20and%20moved%20criteria%20to%20check%20column%2021%3A10%3A22.png)
+
+### Decided app name 13:00:01
+
+![R6](./docs/trello-screenshots/Decided%20app%20name%2013%3A00%3A01.png)
+
+### Added numbering system to project items, more items complete 6:11:22
+
+![R6](./docs/trello-screenshots/added%20numbering%20system%20to%20project%20items%2C%20more%20items%20complete%206%3A11%3A22.png)
+
+### Added some cards to doing column, final updates to README 4:11:22
+
+![R6](./docs/trello-screenshots/added%20some%20cards%20to%20doing%20column%2C%20final%20updates%20to%20README%204%3A11%3A22.png)
+
+### Allocated front-end and back-end, made cards for marking criteria 21:10:22
+
+![R6](./docs/trello-screenshots/allocated%20front-end%20and%20back-end%2C%20made%20cards%20for%20marking%20criteria%2021%3A10%3A22.png)
+
+### Completing wireframes and aspects of readme 1:11:22
+
+![R6](./docs/trello-screenshots/completing%20wireframes%20and%20aspects%20of%20readme%201%3A11%3A22.png)
+
+### Decided on scss to keep front end tidy; colour variables card added 1:11:22
+
+![R6](./docs/trello-screenshots/decided%20on%20scss%20to%20keep%20front%20end%20tidy%3B%20colour%20variables%20card%20added%201%3A11%3A22.png)
+
+### Front-end practice for part b 1:11:22
+
+![R6](./docs/trello-screenshots/front-end%20practice%20for%20part%20b%201%3A11%3A22.png)
+
+### More assigning of person, difficulty and task numbers 21:10:22
+
+![R6](./docs/trello-screenshots/more%20assigning%20of%20person%2C%20difficulty%20and%20task%20numbers%2021%3A10%3A22.png)
+
+### Project setup 21:10:22
+
+![R6](./docs/trello-screenshots/project%20setup%2021%3A10%3A22.png)
+
+### Wireframes and delegating front-and-back end done 1:11:22
+
+![R6](./docs/trello-screenshots/wireframes%20and%20delegating%20front-and-back%20end%20done%201%3A11%3A22.png)
+
+### Working on first half of readme1 21:10:22
+
+![R6](./docs/trello-screenshots/working%20on%20first%20half%20of%20readme1%2021%3A10%3A22.png)
+
+### Assign tasks to person based on front-end and back-end 1:00:13
+
+![R6](./docs/trello-screenshots/Assign%20tasks%20to%20person%20based%20on%20front-end%20and%20back-end%201%3A00%3A13.png)
+
+### Added more must to have features and nice to have features 1:15:04
+
+![R6](./docs/trello-screenshots/Added%20more%20must%20to%20have%20features%20and%20nice%20to%20have%20features%201%3A15%3A04.png)
