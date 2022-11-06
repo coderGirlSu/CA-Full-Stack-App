@@ -157,69 +157,21 @@ The database is hosted in MongoDB's Atlas. It consists of a DB cluster containin
 
 This chat application will feature light and dark mode. The dark mode is a halloween-based theme, and the light mode is a combination of light colours.
 
-### Sign Up Page Mobile (Dark Mode)
+### Sign Up, Login, Chats, and Show Chat Mobile (Dark Mode)
 
-![R5](./docs/wireframes/Sign%20Up%20Mobile%20DARKMODE%20copy.png)
+![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20DARKMODE.png)
 
-### Sign Up Page Mobile (Light Mode)
+### Sign Up, Login, Chats, and Show Chat Mobile (Light Mode)
 
-![R5](./docs/wireframes/Sign%20Up%20Mobile%20LIGHTMODE.png)
+![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20LIGHTMODE.png)
 
-### Log In Page Mobile (Dark Mode)
+### Sign Up, Login, Chats, and Show Chat Tablet (Dark Mode)
 
-![R5](./docs/wireframes/Login%20Mobile%20DARKMODE.png)
+![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20DARKMODE.png)
 
-### Log In Page Mobile (Light Mode)
+### Sign Up, Login, Chats, and Show Chat Tablet (Light Mode)
 
-![R5](./docs/wireframes/Login%20Mobile%20LIGHTMODE.png)
-
-### Chats Page Mobile (Dark Mode)
-
-![R5](./docs/wireframes/Chats%20Mobile%20DARKMODE.png)
-
-### Chats Page Mobile (Light Mode)
-
-![R5](./docs/wireframes/Chats%20Mobile%20LIGHTMODE.png)
-
-### Show Chat Page Mobile (Dark Mode)
-
-![R5](./docs/wireframes/Show%20Chat%20Mobile%20DARKMODE%20copy.png)
-
-### Show Chat Page Mobile (Light Mode)
-
-![R5](./docs/wireframes/Show%20Chat%20Mobile%20LIGHTMODE.png)
-
-### Sign Up Page Tablet (Dark Mode)
-
-![R5](./docs/wireframes/Sign%20Up%20Tablet%20DARKMODE%20copy.png)
-
-### Sign Up Page Tablet (Light Mode)
-
-![R5](./docs/wireframes/Sign%20Up%20Tablet%20LIGHTMODE.png)
-
-### Log In Page Tablet (Dark Mode)
-
-![R5](./docs/wireframes/Login%20Tablet%20DARKMODE.png)
-
-### Log In Page Tablet (Light Mode)
-
-![R5](./docs/wireframes/Login%20Tablet%20LIGHTMODE.png)
-
-### Chats Page Tablet (Dark Mode)
-
-![R5](./docs/wireframes/Chats%20Tablet%20DARKMODE.png)
-
-### Chats Page Tablet (Light Mode)
-
-![R5](./docs/wireframes/Chats%20Tablet%20LIGHTMODE.png)
-
-### Show Chat Page Tablet (Dark Mode)
-
-![R5](./docs/wireframes/Show%20Chat%20Tablet%20DARKMODE.png)
-
-### Show Chat Page Tablet (Light Mode)
-
-![R5](./docs/wireframes/Show%20Chat%20Tablet%20LIGHTMODE.png)
+![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20LIGHTMODE.png)
 
 ### Sign Up Page Desktop (Dark Mode)
 
@@ -245,3 +197,12 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 ![R5](./docs/wireframes/Chat%20Desktop%20LIGHTMODE.png)
 
+## R6: Trello Screenshots
+
+This is a link to our trello workspace: 
+
+https://trello.com/b/rhCwvSGR/tiktalk 
+
+And a link to all trello screenshots. All are labelled with dates and descriptions.
+
+[Trello](./docs/trello-screenshots/)
