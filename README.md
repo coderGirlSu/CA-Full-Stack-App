@@ -194,6 +194,8 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 - Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
 
+- There is an "add chat" button next to the search feature which allows users to create new chats in the **Chats** page.
+
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20DARKMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Mobile (Light Mode)
@@ -201,6 +203,8 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 - All of the functionality is the same on the *mobile* view. Users will log in or sign up, then progress to their Chats and Group Chats page, then to the individual chats page. The only difference is the light mode colour scheme.
 
 - Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
+
+- There is an "add chat" button next to the search feature which allows users to create new chats in the **Chats** page.
 
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2C%20Chats%2C%20Show%20Chat%20MOBILE%20LIGHTMODE.png)
 
@@ -210,6 +214,8 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 
 - Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
 
+- There is an "add chat" button next to the search feature which allows users to create new chats in the **Chats** page.
+
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20DARKMODE.png)
 
 ### Sign Up, Login, Chats, and Show Chat Tablet (Light Mode)
@@ -217,6 +223,8 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 - Light mode for tablet view is the same as dark mode view, except the colour scheme has changed.
 
 - Users can toggle light and dark mode from the bottom of the page, except on the invididual chat screen, where it would be a little impractical as it could accidentally be touched.
+
+- There is an "add chat" button next to the search feature which allows users to create new chats in the **Chats** page.
 
 ![R5](./docs/wireframes/Login%2C%20Sign-Up%2CChats%2C%20Show%20Chat%20Tablet%20LIGHTMODE.png)
 
@@ -255,6 +263,8 @@ This chat application will feature light and dark mode. The dark mode is a hallo
 - The *desktop* variety of the application will have a cruicial difference to the *mobile* and *tablet* views. Because it has the most space, it will **not** have an individual **Chats** page. Because it has the most space, it will have the **Chats** page embedded as a sidebar on the **Chat** page. Here is darkmode.
 
 - Users can toggle light/dark mode from the top right corner of the page.
+
+- There is an "add chat" button next to the search feature which allows users to create new chats.
 
 ![R5](./docs/wireframes/Chat%20Desktop%20DARKMODE.png)
 
